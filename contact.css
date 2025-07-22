@@ -5,10 +5,15 @@
     background-color: turquoise;
 }
 .flier {
-    background-color: greenyellow;
+    background-color: black;
+    padding: 30 px;
+    word-break: none;
+    word-spacing: 30 px;
+    border: 30 px;
 }
 .navigation {
-    align-items: flex-start;
+    align-items: flex-end;
     background-color: aquamarine;
     font-size: medium;
+    border: 30 px;
 }
