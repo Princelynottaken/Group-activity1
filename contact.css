@@ -1,0 +1,19 @@
+*{
+     margin: 30px;
+    padding: 10px;
+    box-sizing: 10px;
+    background-color: turquoise;
+}
+.flier {
+    background-color: black;
+    padding: 30 px;
+    word-break: none;
+    word-spacing: 30 px;
+    border: 30 px;
+}
+.navigation {
+    align-items: flex-end;
+    background-color: aquamarine;
+    font-size: medium;
+    border: 30 px;
+}
